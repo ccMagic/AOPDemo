@@ -1,0 +1,2 @@
+# JavassistDemo
+Javassist在Android的gradle构建阶段的使用demo
